@@ -9,3 +9,12 @@ Insights and recommendations are provided on the following key areas:
 - Regional Comparisons: an evaluation of sales and orders by region
 
 An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/views/LastMileStoreSalesDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+# Executive Summary
+
+## Overview of Findings
+
+
+
+
+
